@@ -1,1 +1,1 @@
-# Large-Kernel-Selection-and-Transformer-for-Open-Vocabulary-Affordance-Detection
+# ALKNet
